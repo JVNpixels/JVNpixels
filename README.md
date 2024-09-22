@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JVNpixels
-- 👀 I’m interested in learning how to code, it might even be my future career.
+- 👀 I’m a young programmer and I'm interested in learning how to code, it might even be my future career.
 - 🌱 I’m currently learning HaxeFlixel.
 - 🧠 I’m (kind of) looking to collaborate on Friday Night Funkin' Projects. But I'm not that good so don't expect me to do wild things.
 - 📫 How to reach me: Just send me a notification I guess, I'm not always active though.
