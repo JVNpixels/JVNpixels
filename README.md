@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @JVNpixels
 - 👀 I’m a young programmer and I'm interested in learning how to code, it will be my future career.
-- 🌱 I’m currently learning Haxe, and learning how to make games using HaxeFlixel
-- 🧠 I’m looking to collaborate on Friday Night Funkin' Projects, more specifically for the base game, I'm not that advanced at Haxe syntax yet so don't expect me to do wild things.
-- 📫 How to reach me: Just send me a notification I guess, I'm not always active though.
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Haxe, and learning how to make games using HaxeFlixel.
+- 🧠 I’m looking to collaborate on Friday Night Funkin' and/or Friday Night Funkin' Projects, I'm not that advanced at the Haxe syntax yet so don't expect me to do wild things.
+- 📫 How to reach me: Just send me a notification I guess, give me some time to respond, as I may be busy.
+- 😄 Pronouns: He/Him/His
 # ⚡Fun Facts:
 - ⚡ Fun Fact: I made a FNF engine (basically a fork of Psych Engine) branded by me with a ton of features (that are kinda useless) but still good.
 - ⚡ Fun Fact 2: I am a big fan of Friday Night Funkin' and its been that way since late 2020 or early 2021.
