@@ -8,7 +8,7 @@
 - ⚡ Fun Fact: I made a FNF engine (basically a fork of Psych Engine) branded by me with a ton of features (that are kinda useless) but still good.
 - ⚡ Fun Fact 2: I am a big fan of Friday Night Funkin' and its been that way since late 2020 or early 2021.
 # 📊 GitHub Statistics:
-![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=JVNpixels&theme=dark)
+![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=JVNpixels&theme=prussian)
 <!---
 JVNpixels/JVNpixels is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
